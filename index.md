@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vamsi
+# 👋 Hi, I'm VamsiGadu
 
 Welcome to my DevOps portfolio!  
 
