@@ -1,6 +1,6 @@
 
 
-**#👋 Hi, I'm Vamsi** 
+## **👋 Hi, I'm Vamsi**
 
 Welcome to my DevOps portfolio!  
 
