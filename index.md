@@ -9,7 +9,7 @@ Here’s one of my key projects:
 ### 📌 Overview
 This project demonstrates a complete DevOps pipeline to:
 - Provision AWS infrastructure using **Terraform**  
-- Deploy an **EKS cluster**  
+- Deploy an **EKS cluster** 
 - Automate builds and deployments via **Jenkins**  
 - Manage continuous delivery with **ArgoCD**  
 
@@ -36,7 +36,7 @@ This project demonstrates a complete DevOps pipeline to:
   - **Database**: Amazon RDS instance.
 
 **Screenshot:**  
-<img src="/Screenshots/terraform output.png" width="700" alt="Terraform Output">
+<img src="/screenshots/terraform output.png" width="700" alt="Terraform Output">
 
 ---
 
@@ -52,7 +52,7 @@ This project demonstrates a complete DevOps pipeline to:
 - Built backend image, pushed to ECR, updated manifests with DB credentials from Kubernetes Secrets/ConfigMaps.
 
 **Screenshot:**  
-<img src="/Screenshots/Jenkins screenshot.png" width="700" alt="Backend Deployment Pipeline">
+<img src="/screenshots/Jenkins screenshot.png" width="700" alt="Backend Deployment Pipeline">
 
 ---
 
@@ -62,8 +62,8 @@ This project demonstrates a complete DevOps pipeline to:
 - Enabled **Auto Sync** for continuous delivery.
 
 **Screenshot:**  
-<img src="/Screenshots/Argo cd screenshot.png" width="700" alt="ArgoCD Dashboard">
-<img src="/Screenshots/Argo cd screenshot 2.png" width="700" alt="ArgoCD Dashboard">
+<img src="/screenshots/Argo cd screenshot.png" width="700" alt="ArgoCD Dashboard">
+<img src="/screenshots/Argo cd screenshot 2.png" width="700" alt="ArgoCD Dashboard">
 
 ---
 
@@ -73,7 +73,7 @@ This project demonstrates a complete DevOps pipeline to:
 - Scalable & repeatable in new AWS accounts.
 
 **Screenshot:**  
-<img src="/Screenshots/Project 1 output.png" width="700" alt="ArgoCD Dashboard">
+<img src="/screenshots/Project 1 output.png" width="700" alt="ArgoCD Dashboard">
 
 
 ---
